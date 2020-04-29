@@ -1,1 +1,2 @@
 git pull will be used to show the latest changes that are updaitng in the local repository
+branch is master initially it is commit id
