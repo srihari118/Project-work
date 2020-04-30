@@ -1,8 +1,7 @@
 Main{
-printf("The sum of two numbers ");
+int a,b,c;
+printf("The sum of two numbers is");
 c=a+b;
-printf("The multiplication of two numbers are");
-c=a*b;
 printf("The result is");
 getch();
 }
