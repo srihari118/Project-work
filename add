@@ -1,0 +1,7 @@
+Main{
+int a,b,c;
+printf("The multiplication of two numbers are");
+c=a*b;
+printf("The result is");
+getch();
+}
