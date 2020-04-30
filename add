@@ -1,0 +1,8 @@
+Main{
+int a,b,c;
+printf("The sum of two numbers");
+c=a+b;
+printf("The result is");
+getch();
+}
+
